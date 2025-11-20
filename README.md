@@ -1,2 +1,2 @@
-# helm-zero-to-hero
-Learn Helm from basics
+# Helm-Notes
+Helm from basics
