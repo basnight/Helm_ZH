@@ -1,2 +1,2 @@
 # Helm-Notes
-Helm from basics
+Repo to learn helm from basics
